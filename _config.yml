@@ -22,12 +22,11 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Xuanyu Liu"
   avatar           : "images/profile.jpg"
-  bio              : "Human-Computer Interaction (HCI) Researcher"
+  bio              : "HCI Researcher"
   location         : "Ann Arbor, USA"
   googlescholar    : "https://scholar.google.com/citations?user=yyNFVl4AAAAJ"
   email            : "xuanyul@umich.edu"
   linkedin         : "https://www.linkedin.com/in/xuanyu-liu-966a2422b/"
-  orcid            : "https://orcid.org/0009-0008-6760-3785"
 
 # Reading Files
 include:
