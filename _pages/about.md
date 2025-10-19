@@ -23,25 +23,44 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 I will present "CoSignPlay: A Collaborative Approach to Learning Non-Manual Signs in ASL for Hearing Families with Deaf Children" at <a href='https://assets25.sigaccess.org/index.html'>ASSETS 2025</a> on Tuesday Paper Session 6A Education and Learning! 
-- *2025.10*: &nbsp;🎉🎉 "Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children" accepted to <a href='https://mijn.bsl.nl/journal-of-autism-and-developmental-disorders/543142'>Journal of Autism and Development Disorders</a>!
-- *2025.04*: &nbsp;🎉🎉 I will present a poster "An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language" at <a href='https://chi2025.acm.org/'>CHI 2025</a>! 
+- *2025.10*: &nbsp;🚀 I will present "CoSignPlay: A Collaborative Approach to Learning Non-Manual Signs in ASL for Hearing Families with Deaf Children" at <a href='https://assets25.sigaccess.org/index.html'>ASSETS 2025</a> on Tuesday Paper Session 6A Education and Learning! 
+- *2025.10*: &nbsp;🎉 "Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children" accepted to <a href='https://mijn.bsl.nl/journal-of-autism-and-developmental-disorders/543142'>Journal of Autism and Development Disorders</a>!
+- *2025.04*: &nbsp;🎤 I will present a poster "An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language" at <a href='https://chi2025.acm.org/'>CHI 2025</a>! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASSETS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CoSignPlay: A Collaborative Approach to Learning Non-Manual Signs in ASL for Hearing Families with Deaf Children](https://zhenbai.io/wp-content/uploads/2025/07/CoSignPlay.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xuanyu Liu**, Hsin-Le Cheng, Guillaume Chastel, Margaret Chastel, Zhen Bai 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- American Sign Language, non-manual signs, avatar, collaborative learning, deaf and hard of hearing
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JADD 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children](https://link.springer.com/article/10.1007/s10803-025-07054-w)
+
+Xiao-Han Li, Ming Lui, Xue-ke Song, Yu-Ru Li, **Xuanyu Liu**, Renee Pi, Wing-Chee So
+
+- Social robots, Autism, Empathy, Intervention, Childhood
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language](https://dl.acm.org/doi/abs/10.1145/3706599.3719848)
+
+**Xuanyu Liu**, Hsin-Le Cheng, Guillaume Chastel, Margaret Chastel, Zhen Bai 
+
+- American Sign Language, non-manual signs, avatar, collaborative learning, deaf and hard of hearing
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
