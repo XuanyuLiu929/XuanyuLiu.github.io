@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I'm Xuanyu Liu. I am a second-year master's student in the School of Information <a href='https://www.si.umich.edu/'> at University of Michigan. During my master, I've had the honor of learning from and collaborating with expert HCI researchers, including <a href='https://zhenbai.io/'>Dr. Zhen Bai</a> at University of Rochester, <a href='https://www.gabrielamarcu.com/'>Dr. Gabriela Marcu</a>, <a href='https://yardi.people.si.umich.edu/'>Prof. Sarita Schoenebeck</a>, and <a href='https://web.eecs.umich.edu/~profdj/'>Dr. Dhruv Jain</a> at University of Michigan, <a href='https://raylc.org/'>Dr. Ray LC</a> at City University of Hong Kong, and <a href='https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-so-wing-chee-catherine/'>Prof. Wing-chee So</a>. Prior to joining UMich, I obtained my bachelor's degree at University College London, advised by <a href='https://profiles.ucl.ac.uk/30634-aneesha-singh'>Dr. Aneesha Singh</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+As a Human-Computer Interaction (HCI) researcher, my research aims to examine how technology can genuinely support marginalized communities. I'm particularly focused on developing inclusive design approaches that center users as experts in their own experiences. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 I will present "CoSignPlay: A Collaborative Approach to Learning Non-Manual Signs in ASL for Hearing Families with Deaf Children" at <a href='https://assets25.sigaccess.org/index.html'>ASSETS 2025</a> on Tuesday Paper Session 6A Education and Learning! 
+- *2025.10*: &nbsp;🎉🎉 "Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children" accepted to <a href='https://mijn.bsl.nl/journal-of-autism-and-developmental-disorders/543142'>Journal of Autism and Development Disorders</a>! 
 
 # 📝 Publications 
 
