@@ -51,7 +51,7 @@ Xiao-Han Li, Ming Lui, Xue-ke Song, Yu-Ru Li, **Xuanyu Liu**, Renee Pi, Wing-Che
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2025</div><img src='images/ASSETS.png' alt="This image for the CoSignPlay project illustrates our prototype concept. Please see the PDF for details." width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2025</div><img src='images/CHI.png' alt="This image for the CoSignPlay project illustrates our prototype concept. Please see the PDF for details." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language](https://dl.acm.org/doi/abs/10.1145/3706599.3719848)
