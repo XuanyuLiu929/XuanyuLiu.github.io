@@ -29,7 +29,7 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASSETS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASSETS 2025</div><img src='images/ASSETS.png' alt="This image for the CoSignPlay project illustrates our prototype concept. Please see the PDF for details." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoSignPlay: A Collaborative Approach to Learning Non-Manual Signs in ASL for Hearing Families with Deaf Children](https://zhenbai.io/wp-content/uploads/2025/07/CoSignPlay.pdf)
@@ -40,7 +40,7 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JADD 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JADD 2025</div><img src='images/JADD.png' alt="Image of the robot-intervention scene. A child receives a drama-based intervention from the robot, while an adult observes and collects data." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children](https://link.springer.com/article/10.1007/s10803-025-07054-w)
@@ -51,7 +51,7 @@ Xiao-Han Li, Ming Lui, Xue-ke Song, Yu-Ru Li, **Xuanyu Liu**, Renee Pi, Wing-Che
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI EA 2025</div><img src='images/ASSETS.png' alt="This image for the CoSignPlay project illustrates our prototype concept. Please see the PDF for details." width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language](https://dl.acm.org/doi/abs/10.1145/3706599.3719848)
