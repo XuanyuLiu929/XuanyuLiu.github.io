@@ -23,9 +23,9 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🚀 I will present "CoSignPlay: A Collaborative Approach to Learning Non-Manual Signs in ASL for Hearing Families with Deaf Children" at <a href='https://assets25.sigaccess.org/index.html'>ASSETS 2025</a> on Tuesday Paper Session 6A Education and Learning! 
+- *2025.10*: &nbsp;🚀 I'll be attending the ASSETS 2025 to present my First author work 'CoSignPlay'. It's on 10/28 Session 6A!
 - *2025.10*: &nbsp;🎉 "Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children" accepted to <a href='https://mijn.bsl.nl/journal-of-autism-and-developmental-disorders/543142'>Journal of Autism and Development Disorders</a>!
-- *2025.04*: &nbsp;🎤 I will present a poster "An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language" at <a href='https://chi2025.acm.org/'>CHI 2025</a>! 
+- *2025.04*: &nbsp;🎤 I will present a poster "An Educational Game Prototype for Avatar-based Non-Manual Sign Learning in American Sign Language" at CHI 2025! 
 
 # 📝 Publications 
 
